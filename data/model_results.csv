@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Lazy (predict all stay),0.735,0.0,0.0,0.0,0.5
+Logistic Regression,0.806,0.658,0.556,0.603,0.842
+Logistic Regression (balanced),0.74,0.507,0.786,0.616,0.842

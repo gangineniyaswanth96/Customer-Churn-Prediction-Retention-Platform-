@@ -9,3 +9,4 @@ xgboost
 shap
 joblib
 tensorflow
+py7zr
